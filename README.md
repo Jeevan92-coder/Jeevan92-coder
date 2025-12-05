@@ -38,7 +38,7 @@
 ### 🛠️ Tech & Tools
 
 **Languages & Web:**
-- HTML, CSS, basic JavaScript
+- python , SQL , ML , Deep Learning
 
 **Software & Tools:**
 - MS Office (Word, Excel, PowerPoint)  
@@ -68,8 +68,8 @@
 
 ### 🎯 Learning Goals (2025)
 
-- ✅ Strong base in **HTML & CSS**
-- 🔄 Improve **JavaScript**
+
+- 🔄 Improve **python**
 - 🤖 Learn more about **AI tools & projects**
 - 🌐 Build more **real-world web projects**
 
