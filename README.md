@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing **ITI in AI Trade**
+- 🎓 Currently pursuing **AI Trade From NSTI Kanpur**
 - 💻 Using computers for **5+ years** at home
 - 🌐 Interested in **Web Development, AI & creative digital work**
 - 🎯 Goal: Become a **professional Web & AI Developer**
@@ -43,7 +43,9 @@
 **Software & Tools:**
 - MS Office (Word, Excel, PowerPoint)  
 - Adobe Photoshop  
-- Video & Photo Editing tools  
+- Video & Photo Editing tools
+- Vs Code
+- MySQL Workbrench
 
 **Other:**
 - Git & GitHub (learning more every day)  
@@ -66,10 +68,10 @@
 
 ---
 
-### 🎯 Learning Goals (2025)
+### 🎯 Learning Goals (2026)
 
 
-- 🔄 Improve **python**
+- 🔄 Improve **python & MySQL** 
 - 🤖 Learn more about **AI tools & projects**
 - 🌐 Build more **real-world web projects**
 
