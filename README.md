@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Meher Jeevan 👋</h1>
 
 <p align="center">
-  ITI (AI Trade) Student • Web Developer • Creative Designer
+  NSTI Kanpur (AI Trade) Student • Web Developer • Creative Designer
 </p>
 
 <p align="center">
