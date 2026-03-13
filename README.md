@@ -9,11 +9,11 @@ Building practical tech solutions, exploring AI systems, and developing modern w
 </p>
 
 <p align="center">
-  <a href="https://github.com/meherjeevan">
-    <img src="https://komarev.com/ghpvc/?username=meherjeevan&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/Jeevan92-coder">
+    <img src="https://komarev.com/ghpvc/?username=Jeevan92-coder&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-  <a href="https://github.com/meherjeevan?tab=followers">
-    <img src="https://img.shields.io/github/followers/meherjeevan?label=Followers&style=social" />
+  <a href="https://github.com/Jeevan92-coder?tab=followers">
+    <img src="https://img.shields.io/github/followers/Jeevan92-coder?label=Followers&style=social" />
   </a>
 </p>
 
@@ -75,15 +75,15 @@ I enjoy building projects that combine **logic, automation, and intelligent syst
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=meherjeevan&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jeevan92-coder&show_icons=true&theme=default"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meherjeevan"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevan92-coder"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meherjeevan&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan92-coder&layout=compact"/>
 </p>
 
 ---
@@ -100,7 +100,13 @@ I enjoy building projects that combine **logic, automation, and intelligent syst
 
 # 🤝 Collaboration & Opportunities
 
-I’m open to collaborating on **AI, Web Development, and automation projects**.
+I’m open to collaborating on:
+
+* AI & Machine Learning Projects
+* Web Applications
+* Data & Automation Projects
+* Innovative Technology Ideas
+
 If you're working on something interesting, feel free to connect.
 
 ---
