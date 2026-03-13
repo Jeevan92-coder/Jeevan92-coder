@@ -1,5 +1,3 @@
-<!-- Replace USERNAME with your GitHub username everywhere -->
-
 <h1 align="center">Hi, I'm Meher Jeevan 👋</h1>
 
 <p align="center">
@@ -11,11 +9,11 @@ Building practical tech solutions, exploring AI systems, and developing modern w
 </p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/meherjeevan">
+    <img src="https://komarev.com/ghpvc/?username=meherjeevan&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-  <a href="https://github.com/USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=social" />
+  <a href="https://github.com/meherjeevan?tab=followers">
+    <img src="https://img.shields.io/github/followers/meherjeevan?label=Followers&style=social" />
   </a>
 </p>
 
@@ -25,8 +23,6 @@ Building practical tech solutions, exploring AI systems, and developing modern w
 
 I’m a technology enthusiast focused on **Artificial Intelligence, Web Development, and data-driven applications**.
 I enjoy building projects that combine **logic, automation, and intelligent systems** to solve real-world problems.
-
-My work focuses on improving development skills, experimenting with new technologies, and creating projects that demonstrate practical engineering thinking.
 
 * 🚀 Passionate about **AI systems and intelligent applications**
 * 💻 Building projects with **Python and databases**
@@ -79,15 +75,15 @@ My work focuses on improving development skills, experimenting with new technolo
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meherjeevan&show_icons=true&theme=default"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meherjeevan"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meherjeevan&layout=compact"/>
 </p>
 
 ---
@@ -102,23 +98,10 @@ My work focuses on improving development skills, experimenting with new technolo
 
 ---
 
-# 🌱 Development Philosophy
-
-I believe technology is best learned by **building real projects and solving practical problems**.
-My goal is to keep improving every day while creating meaningful software and intelligent systems.
-
----
-
 # 🤝 Collaboration & Opportunities
 
-I’m always open to collaborating on:
-
-* AI & Machine Learning Projects
-* Web Applications
-* Data & Automation Projects
-* Innovative Technology Ideas
-
-If you're working on something interesting, feel free to connect or collaborate.
+I’m open to collaborating on **AI, Web Development, and automation projects**.
+If you're working on something interesting, feel free to connect.
 
 ---
 
