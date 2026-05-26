@@ -1,36 +1,52 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ===================================================== -->
+<!--                    ANIMATED HEADER                    -->
+<!-- ===================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Meher%20Jeevan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Python%20|%20Machine%20Learning%20|%20Web%20Development&descAlignY=60&descSize=18" width="100%"/>
+<div align="center">
 
-<!-- ==================== TYPING ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,25:1e3a8a,50:2563eb,75:38bdf8,100:7dd3fc&text=Meher%20Jeevan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Python%20Engineer%20•%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=20"/>
 
-<p align="center">
+</div>
+
+<!-- ===================================================== -->
+<!--                  ANIMATED TYPING                      -->
+<!-- ===================================================== -->
+
+<div align="center">
 
 <a href="https://git.io/typing-svg">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=850&lines=AI+%26+Web+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Practical+Tech+Solutions;Learning+Modern+AI+Systems+Every+Day;Always+Building+Something+New+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=950&lines=Building+AI-Powered+Applications+🚀;Python+Developer+%7C+Machine+Learning;Backend+Logic+%7C+Automation+Systems;Creating+Real-World+Projects;Always+Learning+Modern+Technologies;Turning+Ideas+Into+Code+⚡" alt="Typing SVG" />
 
 </a>
 
-</p>
+</div>
 
-<!-- ==================== BADGES ==================== -->
+<br>
 
-<p align="center">
+<!-- ===================================================== -->
+<!--                  ANIMATED BADGES                      -->
+<!-- ===================================================== -->
 
-<img src="https://komarev.com/ghpvc/?username=Jeevan92-coder&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<div align="center">
 
-<img src="https://img.shields.io/github/followers/Jeevan92-coder?style=for-the-badge&color=0e75b6&labelColor=1e293b" />
+<img src="https://komarev.com/ghpvc/?username=Jeevan92-coder&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/Jeevan92-coder?style=for-the-badge&color=0e75b6&labelColor=1e293b" />
+<img src="https://img.shields.io/github/followers/Jeevan92-coder?style=for-the-badge&color=2563eb&labelColor=0f172a"/>
 
-<img src="https://img.shields.io/github/last-commit/Jeevan92-coder/Jeevan92-coder?style=for-the-badge&color=0e75b6&labelColor=1e293b" />
+<img src="https://img.shields.io/github/stars/Jeevan92-coder?style=for-the-badge&color=2563eb&labelColor=0f172a"/>
 
-</p>
+<img src="https://img.shields.io/github/last-commit/Jeevan92-coder/Jeevan92-coder?style=for-the-badge&color=2563eb&labelColor=0f172a"/>
 
-<!-- ==================== SOCIALS ==================== -->
+</div>
 
-<p align="center">
+<br>
+
+<!-- ===================================================== -->
+<!--                  SOCIAL BUTTONS                       -->
+<!-- ===================================================== -->
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/meher-jeevan-/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -44,75 +60,87 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 Name        : Meher Jeevan
-Role        : AI & Web Developer
+Role        : AI & Python Developer
 Location    : Uttar Pradesh, India 🇮🇳
-Languages   : Python, SQL
-Interests   : AI Systems, Automation, Web Apps
+Focus       : AI Systems & Web Technologies
 Learning    : Machine Learning & Deep Learning
+Languages   : Python, SQL, HTML, CSS, JavaScript
 ```
 
-- 🚀 Passionate about **Artificial Intelligence & modern technologies**
-- 💻 Building practical projects using **Python and databases**
-- 🌐 Exploring **backend systems & web development**
-- 🧠 Interested in **automation and intelligent applications**
-- 📈 Improving problem-solving and development skills daily
-- ⚡ Focused on creating real-world impactful projects
+I am passionate about building practical applications using artificial intelligence, automation, and modern web technologies.
+
+My goal is to develop real-world systems that combine clean backend logic, intelligent workflows, and scalable development practices.
+
+### 🚀 Core Interests
+
+- Artificial Intelligence Applications
+- Machine Learning Systems
+- Python Development
+- Automation & Productivity Tools
+- Backend Engineering
+- Web Technologies
 
 <br clear="right"/>
 
 ---
 
-# 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-## 💻 Programming & Development
+<!-- Animated Icons -->
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,git,github,vscode&theme=dark"/>
+
+<br><br>
+
+<!-- Animated GIF -->
+
+<img width="300" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50fcecde8.gif"/>
+
+</div>
 
 ---
 
-## 🤖 AI & Data Technologies
+# 🤖 AI & Development Technologies
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Automation-0f766e?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Web%20Development-2563eb?style=for-the-badge"/>
+
+</div>
+
 ---
 
-## 🎨 Creative Tools
+# 🎨 Creative & Productivity Tools
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-
----
-
-## 🧠 Productivity Tools
-
-<img src="https://img.shields.io/badge/Microsoft%20Word-185ABD?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 
 </div>
 
@@ -122,17 +150,19 @@ Learning    : Machine Learning & Deep Learning
 
 <div align="center">
 
-| Learning | Building | Exploring |
-|---|---|---|
-| Machine Learning | Python Projects | AI Systems |
-| SQL Optimization | Automation Tools | Backend Logic |
-| Web Technologies | Real-world Apps | Intelligent Workflows |
+| Focus Area | Current Goal |
+|---|---|
+| Python Development | Writing clean and scalable code |
+| Machine Learning | Building AI-powered projects |
+| SQL & Databases | Improving data management skills |
+| Web Development | Developing responsive applications |
+| Automation | Creating smart workflows |
 
 </div>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -152,23 +182,33 @@ Learning    : Machine Learning & Deep Learning
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan92-coder&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=38BDF8&point=FFFFFF&area=true" width="100%"/>
 
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake Animation
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Jeevan92-coder/Jeevan92-coder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jeevan92-coder/Jeevan92-coder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-</p>
+</div>
+
+---
+
+# 🧠 Developer Animation
+
+<div align="center">
+
+<img width="450" src="https://user-images.githubusercontent.com/74038190/212284100-59a89a1b-6bff-4df9-b7d2-7a2dbd3b1c14.gif"/>
+
+</div>
 
 ---
 
@@ -194,7 +234,7 @@ Learning    : Machine Learning & Deep Learning
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/meher-jeevan-/">
 <img src="https://img.shields.io/badge/LinkedIn-Meher%20Jeevan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -208,20 +248,21 @@ Learning    : Machine Learning & Deep Learning
 <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Live Features Included
+# ⚡ Dynamic Features Included
 
-✅ Profile Views Auto Update  
-✅ Followers Count Auto Update  
+✅ Animated Typing Header  
+✅ Live Profile Views Counter  
+✅ Followers Auto Update  
+✅ Last Commit Tracking  
 ✅ GitHub Stats Live  
-✅ Streak Stats Live  
-✅ Language Usage Auto Update  
-✅ Contribution Graph Live  
-✅ Contribution Snake Animation  
-✅ Last Commit Auto Update
+✅ Contribution Graph  
+✅ Animated Snake Contribution  
+✅ GIF Developer Animations  
+✅ Auto Updating Languages Stats  
 
 ---
 
@@ -267,18 +308,22 @@ jobs:
 
 ---
 
-# ⚙️ Important Setup
+# ⚙️ Important Configuration
 
 Go to:
 
-- Repository Settings
-- Actions
-- General
-- Workflow Permissions
+```text
+Repository Settings
+→ Actions
+→ General
+→ Workflow Permissions
+```
 
 Enable:
 
-✅ Read and Write Permissions
+```text
+Read and Write Permissions
+```
 
 Otherwise snake animation will not work.
 
@@ -286,8 +331,10 @@ Otherwise snake animation will not work.
 
 <div align="center">
 
-## ⭐ Building • Learning • Improving Every Day
+### ⭐ Building Intelligent Systems Through Continuous Learning
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f172a,25:1e3a8a,50:2563eb,75:38bdf8,100:7dd3fc&section=footer"/>
 
 </div>
