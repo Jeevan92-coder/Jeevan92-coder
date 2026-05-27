@@ -99,7 +99,7 @@ My goal is to develop intelligent systems that combine analytics, business intel
 
 <br><br>
 
-<img width="300" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50fcecde8.gif"/>
+<img width="450" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 </div>
 
@@ -155,9 +155,9 @@ My goal is to develop intelligent systems that combine analytics, business intel
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeevan92-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeevan92-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevan92-coder&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Jeevan92-coder&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -165,7 +165,7 @@ My goal is to develop intelligent systems that combine analytics, business intel
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan92-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeevan92-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -175,7 +175,7 @@ My goal is to develop intelligent systems that combine analytics, business intel
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan92-coder&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=38BDF8&point=FFFFFF&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan92-coder&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -203,7 +203,7 @@ My goal is to develop intelligent systems that combine analytics, business intel
 
 <div align="center">
 
-<img width="450" src="https://user-images.githubusercontent.com/74038190/212284100-59a89a1b-6bff-4df9-b7d2-7a2dbd3b1c14.gif"/>
+<img width="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 </div>
 
