@@ -28,9 +28,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Jeevan92-coder&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Jeevan92-coder?style=for-the-badge&color=2563eb&labelColor=0f172a"/>
+<img src="https://img.shields.io/github/followers/Jeevan92-coder?logo=github&style=for-the-badge&color=2563eb&labelColor=0f172a"/>
 
-<img src="https://img.shields.io/github/stars/Jeevan92-coder?style=for-the-badge&color=2563eb&labelColor=0f172a"/>
+<img src="https://img.shields.io/github/stars/Jeevan92-coder/Jeevan92-coder?logo=github&style=for-the-badge&color=2563eb&labelColor=0f172a"/>
 
 <img src="https://img.shields.io/github/last-commit/Jeevan92-coder/Jeevan92-coder?style=for-the-badge&color=2563eb&labelColor=0f172a"/>
 
