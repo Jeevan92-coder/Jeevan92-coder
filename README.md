@@ -185,7 +185,15 @@ My goal is to develop intelligent systems that combine analytics, business intel
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jeevan92-coder/Jeevan92-coder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeevan92-coder/Jeevan92-coder/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeevan92-coder/Jeevan92-coder/output/github-contribution-grid-snake.svg">
+
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jeevan92-coder/Jeevan92-coder/output/github-contribution-grid-snake-dark.svg">
+
+</picture>
 
 </div>
 
@@ -209,14 +217,6 @@ My goal is to develop intelligent systems that combine analytics, business intel
 
 <img src="https://img.shields.io/badge/Microsoft-Copilot%20for%20Work-185ABD?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Copilot%20in%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Copilot%20in%20Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Copilot%20in%20Word-185ABD?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-
 </div>
 
 ---
@@ -238,103 +238,6 @@ My goal is to develop intelligent systems that combine analytics, business intel
 </a>
 
 </div>
-
----
-
-# ⚡ Dynamic Features Included
-
-✅ Animated Typing Header  
-✅ Live Profile Views Counter  
-✅ Followers Auto Update  
-✅ Last Commit Tracking  
-✅ GitHub Stats Live  
-✅ Contribution Graph  
-✅ Animated Snake Contribution  
-✅ GIF Developer Animations  
-✅ Auto Updating Languages Stats  
-
----
-
-# 🐍 Snake Animation Setup
-
-Create this file:
-
-```bash
-.github/workflows/snake.yml
-```
-
-Add this code:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Jeevan92-coder
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake Animation
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: dist
-```
-
----
-
-# ⚙️ Important Configuration
-
-Go to:
-
-```text
-Repository Settings
-→ Actions
-→ General
-→ Workflow Permissions
-```
-
-Enable:
-
-```text
-✅ Read and Write Permissions
-```
-
-Then go to:
-
-```text
-Settings
-→ Pages
-```
-
-Select:
-
-```text
-Deploy from branch
-```
-
-Branch:
-
-```text
-output /(root)
-```
 
 ---
 
