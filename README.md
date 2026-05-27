@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,25:1e3a8a,50:2563eb,75:38bdf8,100:7dd3fc&text=Meher%20Jeevan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Python%20Engineer%20•%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,25:1e3a8a,50:2563eb,75:38bdf8,100:7dd3fc&text=Meher%20Jeevan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20•%20BI%20Analyst%20•%20AI%20Enthusiast&descAlignY=60&descSize=20"/>
 
 </div>
 
@@ -14,11 +14,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=950&lines=Building+AI-Powered+Applications+🚀;Python+Developer+%7C+Machine+Learning;Backend+Logic+%7C+Automation+Systems;Creating+Real-World+Projects;Always+Learning+Modern+Technologies;Turning+Ideas+Into+Code+⚡" alt="Typing SVG" />
-
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Data+Analyst+and+BI+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+NLP+%7C+Computer+Vision;Microsoft+365+%7C+Data+Analytics;Building+Data+Driven+Applications" alt="Typing SVG"/>
 
 </div>
 
@@ -74,21 +70,22 @@ Role        : Data Analyst & BI Analyst
 Location    : Uttar Pradesh, India 🇮🇳
 Focus       : Data Analytics, AI Systems & Business Intelligence
 Learning    : Machine Learning, Deep Learning & Generative AI
-Languages   : Python, SQL, HTML, CSS, JavaScriptt
+Languages   : Python, SQL, HTML, CSS, JavaScript
 ```
 
-I am passionate about building practical applications using artificial intelligence, automation, and modern web technologies.
+I am passionate about building practical applications using data analytics, artificial intelligence, automation, and modern web technologies.
 
-My goal is to develop real-world systems that combine clean backend logic, intelligent workflows, and scalable development practices.
+My goal is to develop intelligent systems that combine analytics, business intelligence, automation, and scalable backend logic to solve real-world problems.
 
 ### 🚀 Core Interests
 
+- Data Analytics & Business Intelligence
 - Artificial Intelligence Applications
 - Machine Learning Systems
-- Python Development
+- Generative AI & NLP
+- Computer Vision Applications
 - Automation & Productivity Tools
-- Backend Engineering
-- Web Technologies
+- Backend Engineering & Web Technologies
 
 <br clear="right"/>
 
@@ -98,13 +95,9 @@ My goal is to develop real-world systems that combine clean backend logic, intel
 
 <div align="center">
 
-<!-- Animated Icons -->
-
 <img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,git,github,vscode&theme=dark"/>
 
 <br><br>
-
-<!-- Animated GIF -->
 
 <img width="300" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50fcecde8.gif"/>
 
@@ -112,35 +105,29 @@ My goal is to develop real-world systems that combine clean backend logic, intel
 
 ---
 
-# 🤖 AI & Development Technologies
+# 🤖 AI, Analytics & Development Skills
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL%20Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7c3aed?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Automation-0f766e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0f766e?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Web%20Development-2563eb?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🎨 Creative & Productivity Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Video%20Editing-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-2563eb?style=for-the-badge"/>
 
 </div>
 
@@ -152,11 +139,13 @@ My goal is to develop real-world systems that combine clean backend logic, intel
 
 | Focus Area | Current Goal |
 |---|---|
-| Python Development | Writing clean and scalable code |
-| Machine Learning | Building AI-powered projects |
-| SQL & Databases | Improving data management skills |
-| Web Development | Developing responsive applications |
-| Automation | Creating smart workflows |
+| Data Analytics | Building business insights dashboards |
+| Power BI | Creating interactive visual reports |
+| Python Development | Writing scalable automation scripts |
+| Machine Learning | Developing AI-powered projects |
+| SQL & Databases | Improving data optimization skills |
+| Generative AI | Exploring intelligent AI workflows |
+| NLP & Computer Vision | Building smart AI applications |
 
 </div>
 
@@ -285,25 +274,28 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Jeevan92-coder
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push Snake Animation
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
 ```
 
 ---
@@ -322,10 +314,27 @@ Repository Settings
 Enable:
 
 ```text
-Read and Write Permissions
+✅ Read and Write Permissions
 ```
 
-Otherwise snake animation will not work.
+Then go to:
+
+```text
+Settings
+→ Pages
+```
+
+Select:
+
+```text
+Deploy from branch
+```
+
+Branch:
+
+```text
+output /(root)
+```
 
 ---
 
