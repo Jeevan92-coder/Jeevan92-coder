@@ -70,10 +70,10 @@
 
 ```yaml
 Name        : Meher Jeevan
-Role        : AI & Python Developer
-Location    : Uttar Pradesh, India 🇮🇳
-Focus       : AI Systems & Web Technologies
-Learning    : Machine Learning & Deep Learning
+Role        : Data Analyst &  BI Analyst
+Location    : Orai, Uttar Pradesh, India 
+Focus       : AI Systems & Data Scientist
+Learning    : Machine Learning, Deep Learning & Generative AI
 Languages   : Python, SQL, HTML, CSS, JavaScript
 ```
 
