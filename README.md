@@ -14,7 +14,9 @@
 <!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00C8FF&center=true&vCenter=true&width=980&height=55&lines=🚀+Welcome+to+My+Digital+Universe!;📊+Transforming+Raw+Data+into+Business+Gold;🤖+Building+Intelligent+AI+Systems+from+Scratch;⚡+Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;🧠+Generative+AI+%7C+NLP+%7C+Computer+Vision+Systems;💡+Complex+Problems+→+Elegant+Data-Driven+Solutions;🌟+Open+to+Collaborate+on+AI+%26+Analytics+Projects!" alt="Typing SVG"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&height=60&lines=Data+Analyst+%7C+AI+Systems+Builder;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+Generative+AI;NLP+%7C+Computer+Vision;Building+Intelligent+Solutions;Open+for+Collaboration+and+Opportunities" alt="Typing SVG" />
+
 </div>
 
 <br>
