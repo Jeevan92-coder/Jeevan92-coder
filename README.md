@@ -221,8 +221,11 @@ const meherJeevan = {
 ## 🏆 GitHub Achievement Trophy Case
 
 <div align="center">
-<br>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jeevan92-coder&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Copilot%20Prompt%20Writing-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Copilot%20for%20Work-185ABD?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
 </div>
 
 ---
