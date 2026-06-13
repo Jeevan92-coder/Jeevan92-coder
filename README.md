@@ -405,7 +405,10 @@ const meherJeevan = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines= Meher Jeevan+%7C+Developer;Building+Products+That+Scale;AI+%7C+Automation+%7C+Innovation" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=48&duration=2500&pause=1200&color=000000&center=true&vCenter=true&width=1200&lines=Meher+Jeevan;Developer+%7C+AI+Engineer;Building+Products+That+Scale;Automation+%7C+Innovation"
+  alt="Typing SVG"
+/>
 
 <br>
 
