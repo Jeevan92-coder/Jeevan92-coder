@@ -269,8 +269,6 @@ const meherJeevan = {
 
 ---
 
-<!-- ══════════════════════ PROJECT SHOWCASE (Screenshots) ══════════════════════ -->
-
 # 🧠 Developer Animation
 
 <div align="center">
@@ -279,22 +277,6 @@ const meherJeevan = {
 
 </div>
 
-**📊 BI Dashboard Preview**
-
-<img src="https://placehold.co/500x300/0d1117/00C8FF?text=Upload+Your+Dashboard+Screenshot&font=roboto" width="100%" alt="Dashboard Screenshot"/>
-
-</td>
-<td align="center" width="50%">
-
-**🤖 ML Model Visualization**
-
-<img src="https://placehold.co/500x300/0d1117/0E88E5?text=Upload+Your+ML+Screenshot&font=roboto" width="100%" alt="ML Screenshot"/>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
