@@ -249,20 +249,20 @@ const meherJeevan = {
 
 <br><br>
 
-<a href="https://github.com/Jeevan92-coder/REPO_NAME_1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5&text_color=cdd6f4"/>
+<a href="https://github.com/Jeevan92-coder/Professional-Data-Analytics-Dashboard">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=Professional-Data-Analytics-Dashboard&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/Jeevan92-coder/REPO_NAME_2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5&text_color=cdd6f4"/>
+<a href="https://github.com/Jeevan92-coder/BankChurnProject">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=BankChurnProject&theme=tokyonight&hide_border=true"/>
 </a>
 
 <br>
 
-<a href="https://github.com/Jeevan92-coder/REPO_NAME_3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5&text_color=cdd6f4"/>
+<a href="https://github.com/Jeevan92-coder/NLP_Intent_Classifier_v2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=NLP_Intent_Classifier_v2&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/Jeevan92-coder/REPO_NAME_4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5&text_color=cdd6f4"/>
+<a href="https://github.com/Jeevan92-coder/Object-Detection-System-Detect-multiple-objects-in-an-image">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=Object-Detection-System-Detect-multiple-objects-in-an-image&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
