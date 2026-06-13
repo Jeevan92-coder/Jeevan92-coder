@@ -405,7 +405,7 @@ const meherJeevan = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=JAY+%7C+Developer;Building+Products+That+Scale;AI+%7C+Automation+%7C+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines= Meher Jeevan+%7C+Developer;Building+Products+That+Scale;AI+%7C+Automation+%7C+Innovation" />
 
 <br>
 
