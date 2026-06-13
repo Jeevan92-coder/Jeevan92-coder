@@ -408,7 +408,7 @@ const meherJeevan = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38"/>
 &nbsp;&nbsp;
-<b>I love connecting with developers worldwide — let's collaborate and build something amazing! 🚀</b> 
+<b>I love connecting with developers worldwide — let's collaborate and build something amazing! 🚀</b>
 
 </div>
 
