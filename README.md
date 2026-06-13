@@ -1,11 +1,11 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════╗
-  ║          MEHER JEEVAN — GITHUB PROFILE README  v2.0                  ║
+  ║          MEHER JEEVAN — GITHUB PROFILE README  v3.0                  ║
   ║          Data Analyst · AI Systems Builder · BI Strategist            ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ══════════════════════ CINEMATIC HEADER ══════════════════════ -->
+<!-- ══════════════════════ ANIMATED HEADER ══════════════════════ -->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:060D26,20:0A1F6B,50:1040CC,80:0E88E5,100:00C8FF&text=%E2%9A%A1%20MEHER%20JEEVAN%20%E2%9A%A1&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20%7C%20AI%20Systems%20Builder%20%7C%20BI%20Strategist&descAlignY=65&descSize=21&descColor=7dd3fc"/>
@@ -14,9 +14,7 @@
 <!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&height=60&lines=Data+Analyst+%7C+AI+Systems+Builder;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+Generative+AI;NLP+%7C+Computer+Vision;Building+Intelligent+Solutions;Open+for+Collaboration+and+Opportunities" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&height=60&lines=Data+Analyst+%7C+AI+Systems+Builder;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+NLP;Computer+Vision+%7C+OpenCV;Building+Intelligent+Solutions+%F0%9F%9A%80;Open+for+Collaboration+%26+Opportunities+%F0%9F%9F%A2" alt="Typing SVG" />
 </div>
 
 <br>
@@ -30,8 +28,6 @@
 ![Followers](https://img.shields.io/github/followers/Jeevan92-coder?logo=github&style=for-the-badge&color=0E88E5&labelColor=060D26&label=FOLLOWERS)
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/Jeevan92-coder?logo=github&style=for-the-badge&color=0E88E5&labelColor=060D26&label=TOTAL+STARS)
-&nbsp;
-![Last Commit](https://img.shields.io/github/last-commit/Jeevan92-coder/Jeevan92-coder?style=for-the-badge&color=0E88E5&labelColor=060D26&label=LAST+COMMIT)
 &nbsp;
 ![Open To Work](https://img.shields.io/badge/OPEN_TO_WORK-YES%20🟢-00C851?style=for-the-badge&labelColor=005B2E)
 
@@ -52,28 +48,28 @@
 ```typescript
 const meherJeevan = {
 
-  // ── Identity ─────────────────────────────
+  // ── Identity ──────────────────────────────
   name      : "Meher Jeevan",
   role      : "Data Analyst & AI Systems Builder",
   location  : "Uttar Pradesh, India 🇮🇳",
   status    : "Open to Opportunities 🟢",
 
-  // ── Core Expertise ────────────────────────
+  // ── Core Expertise ─────────────────────────
   analytics : ["Python", "SQL", "Power BI", "Excel"],
   aiML      : ["Machine Learning", "Deep Learning"],
   genAI     : ["LLMs", "Generative AI", "NLP"],
   vision    : ["Computer Vision", "OpenCV"],
   web       : ["HTML", "CSS", "JavaScript"],
 
-  // ── Currently Building ────────────────────
+  // ── Currently Building ─────────────────────
   nowBuilding: [
     "📊  AI-Powered BI Dashboards",
     "🤖  NLP Automation Pipelines",
     "👁️  Computer Vision Applications",
   ],
 
-  // ── Philosophy ───────────────────────────
-  superpower : "Coffee → Code → Insights  ☕📊",
+  // ── Philosophy ────────────────────────────
+  superpower : "Coffee → Code → Insights ☕📊",
   motto      : "Build. Learn. Iterate. Repeat. 🔄",
 
 };
@@ -94,7 +90,7 @@ const meherJeevan = {
 </tr>
 </table>
 
-<!-- ═══ LIVE STATUS DASHBOARD ═══ -->
+<!-- ══════════════════════ LIVE FOCUS DASHBOARD ══════════════════════ -->
 
 <div align="center">
 
@@ -167,23 +163,62 @@ const meherJeevan = {
 
 ---
 
-<!-- ══════════════════════ SKILLS MATRIX ══════════════════════ -->
+<!-- ══════════════════════ CORE COMPETENCIES (NO % / NO LEVELS) ══════════════════════ -->
 
-## 🧠 Skills Proficiency Matrix
+## 🧠 Core Competencies
 
 <div align="center">
 
-| 🛠️ Technology | 📊 Progress Bar | 🏅 Mastery Level |
-|:---|:---:|:---:|
-| 🐍 Python | `████████████████████` **90%** | ⭐ Expert |
-| 🗄️ SQL & Databases | `█████████████████░░░` **85%** | ⭐ Advanced |
-| 📊 Power BI & Analytics | `████████████████░░░░` **80%** | ⭐ Advanced |
-| 🤖 Machine Learning | `████████████████░░░░` **80%** | ⭐ Advanced |
-| 🌐 Web Technologies | `████████████████░░░░` **80%** | ⭐ Advanced |
-| 🧠 Deep Learning | `█████████████░░░░░░░` **65%** | ✨ Intermediate |
-| 🦙 Generative AI | `████████████░░░░░░░░` **65%** | ✨ Intermediate |
-| 💬 Natural Language Processing | `███████████░░░░░░░░░` **60%** | ✨ Intermediate |
-| 👁️ Computer Vision | `███████████░░░░░░░░░` **60%** | ✨ Intermediate |
+<table>
+<tr>
+<td align="center" width="25%">
+
+**📊 Data & Analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3A86FF?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+**🤖 ML & Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+**🧠 GenAI & NLP**
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+**🛠️ DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -195,38 +230,24 @@ const meherJeevan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeevan92-coder&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5&text_color=cdd6f4"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeevan92-coder&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5&text_color=cdd6f4"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=Jeevan92-coder&theme=tokyonight&hide_border=true&background=0d1117&stroke=0E88E5&ring=00C8FF&fire=ff6b6b&currStreakLabel=00C8FF&sideLabels=cdd6f4&dates=6c7086&sideNums=00C8FF"/>
 
-</div>
+<br><br>
 
-<br>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan92-coder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&text_color=cdd6f4"/>
 
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jeevan92-coder&theme=tokyonight"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jeevan92-coder&theme=tokyonight"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jeevan92-coder&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeevan92-coder&theme=tokyonight"/>
 </div>
 
 ---
 
 <!-- ══════════════════════ TROPHIES ══════════════════════ -->
 
-## 🏆 GitHub Achievement Trophy Case
+## 🏆 GitHub Achievement Trophies
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Microsoft-Copilot%20Prompt%20Writing-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft-Copilot%20for%20Work-185ABD?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jeevan92-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
@@ -246,6 +267,13 @@ const meherJeevan = {
 
 ## 🐍 Contribution Grid — Snake Edition
 
+<!--
+  ⚙️ SETUP REQUIRED: Add the Platane/snk GitHub Action to auto-generate this SVG.
+  Create file: .github/workflows/snake.yml
+  Workflow:    uses: Platane/snk@v3
+  See:         https://github.com/Platane/snk
+-->
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeevan92-coder/Jeevan92-coder/output/github-contribution-grid-snake-dark.svg"/>
@@ -256,31 +284,22 @@ const meherJeevan = {
 
 ---
 
+<!-- ══════════════════════ RANDOM JOKE ══════════════════════ -->
+
+## 😄 Dev Joke of the Day
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" width="60%"/>
+</div>
+
+---
+
 <!-- ══════════════════════ DEV QUOTE ══════════════════════ -->
 
 ## 💭 Developer Quote of the Day
 
 <div align="center">
   <img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
-<br>
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td align="center" width="50%">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="290" alt="Developer at Work"/>
-<br><b>Late Night Debugging Mode 🌙</b>
-</td>
-<td align="center" width="50%">
-<img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="290" alt="ML Training"/>
-<br><b>When the Model Finally Converges 🎯</b>
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
