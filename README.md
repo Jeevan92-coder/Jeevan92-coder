@@ -271,26 +271,13 @@ const meherJeevan = {
 
 <!-- ══════════════════════ PROJECT SHOWCASE (Screenshots) ══════════════════════ -->
 
-## 📸 Project Showcase
-
-<!--
-  📌 HOW TO ADD SCREENSHOTS:
-  Step 1 → Create a folder in your repo:  assets/screenshots/
-  Step 2 → Upload your dashboard/project images there
-  Step 3 → Replace the <img src="..."> below with your actual image paths
-
-  Example:
-    <img src="assets/screenshots/bi-dashboard.png" width="100%" alt="BI Dashboard"/>
-
-  Tip: Screenshot your Power BI dashboards, Python plots, or model outputs.
-       Real screenshots = 10x more credibility than placeholder text.
--->
+# 🧠 Developer Animation
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+<img width="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+</div>
 
 **📊 BI Dashboard Preview**
 
