@@ -243,14 +243,18 @@ const meherJeevan = {
 
 <!-- ══════════════════════ TROPHIES ══════════════════════ -->
 
-## 🏆 GitHub Achievement Trophies
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jeevan92-coder&theme=onedark&no-frame=true&row=1&column=6"/>
+| Project | Description |
+|----------|-------------|
+| 📊 BI Dashboard | Interactive business analytics dashboard |
+| 🤖 ML Predictor | Machine learning forecasting model |
+| 💬 NLP Analyzer | Text sentiment & classification system |
+| 👁️ Computer Vision | Object detection application |
 
 </div>
-
 ---
 
 <!-- ══════════════════════ ACTIVITY GRAPH ══════════════════════ -->
