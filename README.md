@@ -410,9 +410,6 @@ const meherJeevan = {
 &nbsp;&nbsp;
 <b>I love connecting with developers worldwide — let's collaborate and build something amazing! 🚀</b> 
 
-
-<img width="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
 </div>
 
 </div>
