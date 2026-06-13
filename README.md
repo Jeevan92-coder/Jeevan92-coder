@@ -269,7 +269,6 @@ const meherJeevan = {
 
 ---
 
-# 🧠 Developer Animation
 
 <div align="center">
 
@@ -407,9 +406,14 @@ const meherJeevan = {
 
 <br><br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38"/>
-&nbsp;&nbsp;
-<b>I love connecting with developers worldwide — let's collaborate and build something amazing! 🚀</b>
+I love connecting with developers worldwide — let's collaborate and build something amazing! 
+
+
+<div align="center">
+
+<img width="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+</div>
 
 </div>
 
