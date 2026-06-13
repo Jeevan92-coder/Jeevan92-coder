@@ -247,7 +247,7 @@ const meherJeevan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jeevan92-coder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jeevan92-coder&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
