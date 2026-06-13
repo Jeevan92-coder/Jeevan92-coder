@@ -1,20 +1,20 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════════╗
-  ║          MEHER JEEVAN — GITHUB PROFILE README  v3.0                  ║
-  ║          Data Analyst · AI Systems Builder · BI Strategist            ║
+  ║          MEHER JEEVAN — GITHUB PROFILE README  v4.0                  ║
+  ║          Data Analyst · AI Builder · ML Enthusiast                    ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 <!-- ══════════════════════ ANIMATED HEADER ══════════════════════ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:060D26,20:0A1F6B,50:1040CC,80:0E88E5,100:00C8FF&text=%E2%9A%A1%20MEHER%20JEEVAN%20%E2%9A%A1&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20%7C%20AI%20Systems%20Builder%20%7C%20BI%20Strategist&descAlignY=65&descSize=21&descColor=7dd3fc"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:060D26,20:0A1F6B,50:1040CC,80:0E88E5,100:00C8FF&text=%E2%9A%A1%20MEHER%20JEEVAN%20%E2%9A%A1&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20%7C%20AI%20Builder%20%7C%20ML%20Enthusiast&descAlignY=65&descSize=21&descColor=7dd3fc"/>
 </div>
 
 <!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&height=60&lines=Data+Analyst+%7C+AI+Systems+Builder;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+NLP;Computer+Vision+%7C+OpenCV;Building+Intelligent+Solutions+%F0%9F%9A%80;Open+for+Collaboration+%26+Opportunities+%F0%9F%9F%A2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&height=60&lines=Data+Analyst+%7C+AI+Builder;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+NLP;Computer+Vision+%7C+OpenCV;Learning+MLOps+%26+AI+Agents+%F0%9F%9A%80;Open+for+Collaboration+%26+Opportunities+%F0%9F%9F%A2" alt="Typing SVG" />
 </div>
 
 <br>
@@ -50,7 +50,7 @@ const meherJeevan = {
 
   // ── Identity ──────────────────────────────
   name      : "Meher Jeevan",
-  role      : "Data Analyst & AI Systems Builder",
+  role      : "Data Analyst & AI Builder",
   location  : "Uttar Pradesh, India 🇮🇳",
   status    : "Open to Opportunities 🟢",
 
@@ -59,13 +59,19 @@ const meherJeevan = {
   aiML      : ["Machine Learning", "Deep Learning"],
   genAI     : ["LLMs", "Generative AI", "NLP"],
   vision    : ["Computer Vision", "OpenCV"],
-  web       : ["HTML", "CSS", "JavaScript"],
 
-  // ── Currently Building ─────────────────────
-  nowBuilding: [
-    "📊  AI-Powered BI Dashboards",
-    "🤖  NLP Automation Pipelines",
-    "👁️  Computer Vision Applications",
+  // ── Current Focus ──────────────────────────
+  currentFocus : [
+    "Data Analytics",
+    "Machine Learning",
+    "Generative AI",
+  ],
+
+  // ── Currently Learning ─────────────────────
+  learning : [
+    "MLOps",
+    "AI Agents",
+    "Cloud Deployment",
   ],
 
   // ── Philosophy ────────────────────────────
@@ -163,7 +169,7 @@ const meherJeevan = {
 
 ---
 
-<!-- ══════════════════════ CORE COMPETENCIES (NO % / NO LEVELS) ══════════════════════ -->
+<!-- ══════════════════════ CORE COMPETENCIES ══════════════════════ -->
 
 ## 🧠 Core Competencies
 
@@ -224,6 +230,87 @@ const meherJeevan = {
 
 ---
 
+<!-- ══════════════════════ FEATURED PROJECTS ══════════════════════ -->
+
+## 🚀 Featured Projects
+
+<!--
+  📌 HOW TO UPDATE THIS SECTION:
+  Replace REPO_NAME_1, REPO_NAME_2, etc. with your actual GitHub repository names.
+  Example: if your repo URL is github.com/Jeevan92-coder/Sales-Dashboard
+  then replace REPO_NAME_1 with: Sales-Dashboard
+-->
+
+<div align="center">
+
+<a href="https://github.com/Jeevan92-coder?tab=repositories">
+  <img src="https://img.shields.io/badge/🔗_View_All_Projects_on_GitHub-0E88E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Jeevan92-coder/REPO_NAME_1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5&text_color=cdd6f4"/>
+</a>
+<a href="https://github.com/Jeevan92-coder/REPO_NAME_2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5&text_color=cdd6f4"/>
+</a>
+
+<br>
+
+<a href="https://github.com/Jeevan92-coder/REPO_NAME_3">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5&text_color=cdd6f4"/>
+</a>
+<a href="https://github.com/Jeevan92-coder/REPO_NAME_4">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5&text_color=cdd6f4"/>
+</a>
+
+</div>
+
+---
+
+<!-- ══════════════════════ PROJECT SHOWCASE (Screenshots) ══════════════════════ -->
+
+## 📸 Project Showcase
+
+<!--
+  📌 HOW TO ADD SCREENSHOTS:
+  Step 1 → Create a folder in your repo:  assets/screenshots/
+  Step 2 → Upload your dashboard/project images there
+  Step 3 → Replace the <img src="..."> below with your actual image paths
+
+  Example:
+    <img src="assets/screenshots/bi-dashboard.png" width="100%" alt="BI Dashboard"/>
+
+  Tip: Screenshot your Power BI dashboards, Python plots, or model outputs.
+       Real screenshots = 10x more credibility than placeholder text.
+-->
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📊 BI Dashboard Preview**
+
+<img src="https://placehold.co/500x300/0d1117/00C8FF?text=Upload+Your+Dashboard+Screenshot&font=roboto" width="100%" alt="Dashboard Screenshot"/>
+
+</td>
+<td align="center" width="50%">
+
+**🤖 ML Model Visualization**
+
+<img src="https://placehold.co/500x300/0d1117/0E88E5?text=Upload+Your+ML+Screenshot&font=roboto" width="100%" alt="ML Screenshot"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
 
 ## 📊 GitHub Performance Analytics
@@ -237,24 +324,12 @@ const meherJeevan = {
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan92-coder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&text_color=cdd6f4"/>
 
-</div>
+<br><br>
 
----
-
-<!-- ══════════════════════ TROPHIES ══════════════════════ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|----------|-------------|
-| 📊 BI Dashboard | Interactive business analytics dashboard |
-| 🤖 ML Predictor | Machine learning forecasting model |
-| 💬 NLP Analyzer | Text sentiment & classification system |
-| 👁️ Computer Vision | Object detection application |
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeevan92-coder&theme=tokyonight"/>
 
 </div>
+
 ---
 
 <!-- ══════════════════════ ACTIVITY GRAPH ══════════════════════ -->
@@ -272,10 +347,31 @@ const meherJeevan = {
 ## 🐍 Contribution Grid — Snake Edition
 
 <!--
-  ⚙️ SETUP REQUIRED: Add the Platane/snk GitHub Action to auto-generate this SVG.
-  Create file: .github/workflows/snake.yml
-  Workflow:    uses: Platane/snk@v3
-  See:         https://github.com/Platane/snk
+  ⚙️ SETUP REQUIRED — Run this once:
+  1. Go to your repo: github.com/Jeevan92-coder/Jeevan92-coder
+  2. Create file: .github/workflows/snake.yml
+  3. Paste this content:
+
+  name: Generate Snake Animation
+  on:
+    schedule: [{ cron: "0 0 * * *" }]
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
 
 <div align="center">
@@ -317,16 +413,6 @@ const meherJeevan = {
 <img src="https://img.shields.io/badge/Microsoft_Certified-Copilot_Prompt_Writing-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Certified-Copilot_for_Work-185ABD?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Skill-Python_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Skill-Advanced_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Skill-Power_BI_Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Skill-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </div>
 
