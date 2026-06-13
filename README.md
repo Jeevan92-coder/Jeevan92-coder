@@ -422,7 +422,14 @@ const meherJeevan = {
   <img src="https://img.shields.io/badge/Problem-Solver-0A0A0A?style=for-the-badge"/>
 </p>
 
-</div>
+</div> 
+
+## ⚡ About Me
+
+- Building impactful software
+- Exploring AI & automation
+- Focused on scalable products
+- Learning through real-world execution
 
 </div>
 
