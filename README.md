@@ -405,7 +405,19 @@ const meherJeevan = {
 
 <div align="center">
 
-<img width="500" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=JAY+%7C+Developer;Building+Products+That+Scale;AI+%7C+Automation+%7C+Innovation" />
+
+<br>
+
+<img width="900" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+<br><br>
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Engineering-0A0A0A?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Development-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem-Solver-0A0A0A?style=for-the-badge"/>
+</p>
 
 </div>
 
