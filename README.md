@@ -416,6 +416,21 @@ const meherJeevan = {
 
 <br><br>
 
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=48&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=1200&lines=Meher+Jeevan;Developer+%7C+AI+Engineer;Building+Products+That+Scale"
+/>
+
+<br>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=&animation=twinkling"
+/>
+
+</div>
+
 <p>
   <img src="https://img.shields.io/badge/AI-Engineering-0A0A0A?style=for-the-badge&logo=openai"/>
   <img src="https://img.shields.io/badge/Full%20Stack-Development-0A0A0A?style=for-the-badge"/>
