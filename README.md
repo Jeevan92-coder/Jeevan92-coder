@@ -39,64 +39,34 @@
 
 <!-- ══════════════════════ ABOUT ME ══════════════════════ -->
 
-## 👨‍💻 Who Am I?
-
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="60%" valign="top">
 
-<pre>
-const meherJeevan = {
+<b>const meherJeevan = {</b>
 
-  // ── Identity ──────────────────────────────
-  name      : "Meher Jeevan",
-  role      : "Data Analyst & AI Builder",
-  location  : "Uttar Pradesh, India 🇮🇳",
-  status    : "Open to Opportunities 🟢",
+<ul>
+<li><b>role:</b> Data Analyst & AI Builder</li>
+<li><b>location:</b> Uttar Pradesh, India 🇮🇳</li>
+<li><b>status:</b> Open to Opportunities 🟢</li>
+<li><b>analytics:</b> Python, SQL, Power BI, Excel</li>
+<li><b>AI/ML:</b> Machine Learning, Deep Learning</li>
+<li><b>GenAI:</b> LLMs, NLP, Generative AI</li>
+<li><b>vision:</b> Computer Vision, OpenCV</li>
+<li><b>learning:</b> MLOps, AI Agents, Cloud Deployment</li>
+</ul>
 
-  // ── Core Expertise ─────────────────────────
-  analytics : ["Python", "SQL", "Power BI", "Excel"],
-  aiML      : ["Machine Learning", "Deep Learning"],
-  genAI     : ["LLMs", "Generative AI", "NLP"],
-  vision    : ["Computer Vision", "OpenCV"],
-
-  // ── Current Focus ──────────────────────────
-  currentFocus : [
-    "Data Analytics",
-    "Machine Learning",
-    "Generative AI"
-  ],
-
-  // ── Currently Learning ─────────────────────
-  learning : [
-    "MLOps",
-    "AI Agents",
-    "Cloud Deployment"
-  ],
-
-  // ── Philosophy ─────────────────────────────
-  superpower : "Coffee → Code → Insights ☕📊",
-  motto      : "Build. Learn. Iterate. Repeat. 🔄"
-
-};
-</pre>
+<b>};</b>
 
 </td>
 
-<td width="44%" align="center" valign="middle">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Coding GIF"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/meher-jeevan-/">
-  <img src="https://img.shields.io/badge/💼_Available_for-Freelance_%26_Collaboration-0E88E5?style=for-the-badge&labelColor=060D26"/>
-</a>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 </td>
 </tr>
 </table>
-
 <!-- ══════════════════════ LIVE FOCUS DASHBOARD ══════════════════════ -->
 
 <div align="center">
