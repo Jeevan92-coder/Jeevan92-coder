@@ -41,11 +41,11 @@
 
 ## 👨‍💻 Who Am I?
 
-<table width="100%">
+<table>
 <tr>
 <td width="56%" valign="top">
 
-```typescript
+<pre>
 const meherJeevan = {
 
   // ── Identity ──────────────────────────────
@@ -64,24 +64,25 @@ const meherJeevan = {
   currentFocus : [
     "Data Analytics",
     "Machine Learning",
-    "Generative AI",
+    "Generative AI"
   ],
 
   // ── Currently Learning ─────────────────────
   learning : [
     "MLOps",
     "AI Agents",
-    "Cloud Deployment",
+    "Cloud Deployment"
   ],
 
-  // ── Philosophy ────────────────────────────
+  // ── Philosophy ─────────────────────────────
   superpower : "Coffee → Code → Insights ☕📊",
-  motto      : "Build. Learn. Iterate. Repeat. 🔄",
+  motto      : "Build. Learn. Iterate. Repeat. 🔄"
 
 };
-```
+</pre>
 
 </td>
+
 <td width="44%" align="center" valign="middle">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Coding GIF"/>
