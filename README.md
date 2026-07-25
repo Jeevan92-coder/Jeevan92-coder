@@ -1,20 +1,20 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║          MEHER JEEVAN — GITHUB PROFILE README  v4.0                  ║
-  ║          Data Analyst · AI Builder · ML Enthusiast                    ║
-  ╚══════════════════════════════════════════════════════════════════════╝
+  ╔════════════════════════════════════════════════════════════════════════════╗
+  ║          MEHER JEEVAN — GITHUB PROFILE README  v5.0                        ║
+  ║          Data Analyst · AI Builder · ML Enthusiast                         ║
+  ╚════════════════════════════════════════════════════════════════════════════╝
 -->
 
 <!-- ══════════════════════ ANIMATED HEADER ══════════════════════ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:060D26,20:0A1F6B,50:1040CC,80:0E88E5,100:00C8FF&text=%E2%9A%A1%20MEHER%20JEEVAN%20%E2%9A%A1&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Data%20Analyst%20%7C%20AI%20Builder%20%7C%20ML%20Enthusiast&descAlignY=65&descSize=21&descColor=7dd3fc"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:060D26,20:0A1F6B,50:1040CC,80:0E88E5,100:00C8FF&text=%E2%9A%A1%20MEHER%20JEEVAN%20%E2%9A%A1&fontSize=60&fontAlignY=40&desc=Data%20Analyst%20%7C%20AI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=62&descAlign=50&animation=fadeIn&animationDuration=3"/>
 </div>
 
 <!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&height=60&lines=Data+Analyst+%7C+AI+Builder;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+LLMs+%7C+NLP;Computer+Vision+%7C+OpenCV;Learning+MLOps+%26+AI+Agents+%F0%9F%9A%80;Open+for+Collaboration+%26+Opportunities+%F0%9F%9F%A2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=1000&height=60&lines=Data+Analyst+%7C+AI+Builder+%7C+ML+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+TensorFlow;Building+Tomorrow's+Solutions+Today!" alt="Typing Animation"/>
 </div>
 
 <br>
@@ -62,11 +62,12 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
 
 </td>
 </tr>
 </table>
+
 <!-- ══════════════════════ LIVE FOCUS DASHBOARD ══════════════════════ -->
 
 <div align="center">
@@ -93,48 +94,48 @@
 
 ### 🔤 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql&theme=dark" alt="Programming Languages"/>
 
 <br><br>
 
 ### 📊 Data Science & Business Intelligence
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3A86FF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-3A86FF?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 <br><br>
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white" alt="LangChain"/>
 
 <br><br>
 
 ### 🛠️ Dev Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux&theme=dark" alt="Dev Tools"/>
 
 <br><br>
 
 ### 🏢 Microsoft Ecosystem
 
-<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365"/>
+<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="Copilot"/>
+<img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Microsoft Teams"/>
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint"/>
 
 </div>
 
@@ -205,40 +206,32 @@
 
 ## 🚀 Featured Projects
 
-<!--
-  📌 HOW TO UPDATE THIS SECTION:
-  Replace REPO_NAME_1, REPO_NAME_2, etc. with your actual GitHub repository names.
-  Example: if your repo URL is github.com/Jeevan92-coder/Sales-Dashboard
-  then replace REPO_NAME_1 with: Sales-Dashboard
--->
-
 <div align="center">
 
 <a href="https://github.com/Jeevan92-coder?tab=repositories">
-  <img src="https://img.shields.io/badge/🔗_View_All_Projects_on_GitHub-0E88E5?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🔗_View_All_Projects_on_GitHub-0E88E5?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/Jeevan92-coder/Professional-Data-Analytics-Dashboard">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=Professional-Data-Analytics-Dashboard&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=Professional-Data-Analytics-Dashboard&theme=tokyonight&hide_border=true" alt="Professional Data Analytics Dashboard"/>
 </a>
 <a href="https://github.com/Jeevan92-coder/BankChurnProject">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=BankChurnProject&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=BankChurnProject&theme=tokyonight&hide_border=true" alt="Bank Churn Project"/>
 </a>
 
 <br>
 
 <a href="https://github.com/Jeevan92-coder/NLP_Intent_Classifier_v2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=NLP_Intent_Classifier_v2&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=NLP_Intent_Classifier_v2&theme=tokyonight&hide_border=true" alt="NLP Intent Classifier"/>
 </a>
 <a href="https://github.com/Jeevan92-coder/Object-Detection-System-Detect-multiple-objects-in-an-image">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=Object-Detection-System-Detect-multiple-objects-in-an-image&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan92-coder&repo=Object-Detection-System-Detect-multiple-objects-in-an-image&theme=tokyonight&hide_border=true" alt="Object Detection System"/>
 </a>
 
 </div>
 
----
 ---
 
 <!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
@@ -247,16 +240,16 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeevan92-coder&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5&text_color=cdd6f4"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Jeevan92-coder&theme=tokyonight&hide_border=true&background=0d1117&stroke=0E88E5&ring=00C8FF&fire=ff6b6b&currStreakLabel=00C8FF&sideLabels=cdd6f4&dates=6c7086&sideNums=00C8FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeevan92-coder&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=0E88E5" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Jeevan92-coder&theme=tokyonight&hide_border=true&background=0d1117&stroke=0E88E5&ring=00C8FF&fire=ff6b6b&currStreakLabel=00C8FF&sideLabels=00C8FF" alt="Streak Stats"/>
 
 <br><br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan92-coder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF&text_color=cdd6f4"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan92-coder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C8FF" alt="Top Languages"/>
 
 <br><br>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeevan92-coder&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeevan92-coder&theme=tokyonight" alt="Profile Summary"/>
 
 </div>
 
@@ -267,7 +260,7 @@
 ## 📈 Contribution Activity Timeline
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan92-coder&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C8FF&line=0E88E5&point=00C8FF&area=true&area_color=0A1F6B"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevan92-coder&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C8FF&line=0E88E5&point=00C8FF&area=true" alt="Contribution Activity Graph"/>
 </div>
 
 ---
@@ -276,34 +269,6 @@
 
 ## 🐍 Contribution Grid — Snake Edition
 
-<!--
-  ⚙️ SETUP REQUIRED — Run this once:
-  1. Go to your repo: github.com/Jeevan92-coder/Jeevan92-coder
-  2. Create file: .github/workflows/snake.yml
-  3. Paste this content:
-
-  name: Generate Snake Animation
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeevan92-coder/Jeevan92-coder/output/github-contribution-grid-snake-dark.svg"/>
@@ -311,6 +276,45 @@
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Jeevan92-coder/Jeevan92-coder/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 </div>
+
+<details>
+<summary><b>⚙️ Snake Animation Setup (Click to expand)</b></summary>
+
+To enable the snake animation:
+
+1. Go to your repo: https://github.com/Jeevan92-coder/Jeevan92-coder
+2. Create directory: `.github/workflows/`
+3. Create file: `.github/workflows/snake.yml`
+4. Paste this content:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+5. Save and it will run automatically!
+
+</details>
 
 ---
 
@@ -329,7 +333,7 @@
 ## 💭 Developer Quote of the Day
 
 <div align="center">
-  <img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </div>
 
 ---
@@ -340,11 +344,22 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Microsoft_Certified-Copilot_Prompt_Writing-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Certified-Copilot_Prompt_Writing-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified - Copilot Prompt Writing"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Microsoft_Certified-Copilot_for_Work-185ABD?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Certified-Copilot_for_Work-185ABD?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified - Copilot for Work"/>
 
 </div>
+
+---
+
+<!-- ══════════════════════ ABOUT ME ══════════════════════ -->
+
+## ⚡ About Me
+
+- 🎯 Building impactful software solutions
+- 🤖 Exploring AI & automation technologies
+- 📈 Focused on scalable, production-ready products
+- 🚀 Learning through real-world execution and experimentation
 
 ---
 
@@ -355,55 +370,22 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/meher-jeevan-/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:meherjeevan55@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://portfolio-x9yw.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38" alt="Wave"/>
 &nbsp;&nbsp;
 <b>I love connecting with developers worldwide — let's collaborate and build something amazing! 🚀</b>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Sora&weight=800&size=48&duration=2500&pause=1200&color=000000&center=true&vCenter=true&width=1200&lines=Meher+Jeevan;Developer+%7C+AI+Engineer;Building+Products+That+Scale;Automation+%7C+Innovation"
-  alt="Typing SVG"
-/>
-
-<br>
-
-<img width="900" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-<br><br>
-
-
-</div>
-
-<p>
-  <img src="https://img.shields.io/badge/AI-Engineering-0A0A0A?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-Development-0A0A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem-Solver-0A0A0A?style=for-the-badge"/>
-</p>
-
-</div> 
-
-## ⚡ About Me
-
-- Building impactful software
-- Exploring AI & automation
-- Focused on scalable products
-- Learning through real-world execution
 
 </div>
 
@@ -417,14 +399,14 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-ff6b6b?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-ff6b6b?style=for-the-badge&labelColor=1a1a2e" alt="Made with love"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Always-Learning%20🚀-0E88E5?style=for-the-badge&labelColor=060D26"/>
+<img src="https://img.shields.io/badge/Always-Learning%20🚀-0E88E5?style=for-the-badge&labelColor=060D26" alt="Always Learning"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Building-The%20Future%20⚡-00C8FF?style=for-the-badge&labelColor=060D26"/>
+<img src="https://img.shields.io/badge/Building-The%20Future%20⚡-00C8FF?style=for-the-badge&labelColor=060D26" alt="Building the Future"/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:060D26,20:0A1F6B,50:1040CC,80:0E88E5,100:00C8FF&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:060D26,20:0A1F6B,50:1040CC,80:0E88E5,100:00C8FF&section=footer&animation=fadeIn" alt="Footer Wave"/>
 
 </div>
